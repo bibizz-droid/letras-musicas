@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/letras-musicas/static/css/main.e6c13ad2.css",
+    "main.js": "/letras-musicas/static/js/main.9a5d4542.js",
+    "static/js/453.1e900c9c.chunk.js": "/letras-musicas/static/js/453.1e900c9c.chunk.js",
+    "index.html": "/letras-musicas/index.html",
+    "main.e6c13ad2.css.map": "/letras-musicas/static/css/main.e6c13ad2.css.map",
+    "main.9a5d4542.js.map": "/letras-musicas/static/js/main.9a5d4542.js.map",
+    "453.1e900c9c.chunk.js.map": "/letras-musicas/static/js/453.1e900c9c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.9a5d4542.js"
+  ]
+}
